@@ -1,0 +1,19 @@
+﻿body {
+    background-color:antiquewhite;
+    color:navy;
+    font-family:Tahoma;
+    font-size: 1em;
+}
+
+#DivContainer {
+    background-color: #ededed;
+    width: 90%;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#DivButtons {
+    display: none;
+}
